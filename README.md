@@ -5,8 +5,8 @@ es_freeroam is a FiveM game mode with a money system.
 The player can receive jobs, survivals, buy buildings, drugs and many more.
 
  **Note:
-This project brings developers together to work on a script that can be used for many different servers, so you don't need to reivent the wheel.   
-Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project.**
+This project brings developers together to work on a script that can be used for different types of servers.  
+Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project, instead [contribute](CONTRIBUTING.MD).**
 
 ## Changelog
 You can find our changelog [here](CHANGELOG.MD)
