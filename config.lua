@@ -1,9 +1,9 @@
 -- Change your database credentials.
 database = {
           host = "127.0.0.1",
-          name = "gta5_gamemode_essential",
-          username = "gta5_gamemode_essential",
-          password = "dqBwyvGKLWA2iRaL"
+          name = "changeme",
+          username = "changeme",
+          password = "changeme"
         }
 
 -- Configure the coordinates where the player gets spawned when he joins the server.
