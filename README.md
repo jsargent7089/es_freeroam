@@ -4,8 +4,13 @@
 es_freeroam is a FiveM game mode with a money system.  
 The player can receive jobs, survivals, buy buildings, drugs and many more.
 
- **Note: This project is at an early development stage and we will only continue if other developers contribute to it.   
- you can find the current changelog [here](CHANGELOG.MD)**
+ **Note:
+This project brings developers together to work on a script that can be used for many different servers, so you don't need to reivent the wheel.   
+Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project.
+**
+
+## Changelog
+You can find our changelog [here](CHANGELOG.MD)
 
 ## Requirements
 - [Essentialmode](https://forum.fivem.net/t/release-essentialmode-base/3665)
