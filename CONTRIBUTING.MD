@@ -14,7 +14,7 @@ Guidelines for bug reports:
 4. **Isolate the problem** - So the developers doesn't have hard times finding the possible bug. 
  
 A good bug report shouldn't have leave others needing to chase up for more information. 
-Please try to be detailed as possible in your report.  What steps ill reproduce the issue? etc.. 
+Please try to be detailed as possible in your report.  What steps ill reproduce the issue? etc..   
 All these details will help people to fix potential bugs. 
 
 ## Pull Requests
