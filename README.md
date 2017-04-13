@@ -20,7 +20,7 @@ You can find our changelog [here](CHANGELOG.MD)
 3. Place the folder in your resources/[essential] folder
 4. Change **resource_type 'map' { gameTypes = { fivem = true } }**   
 to    
-**resource_type 'map' { gameTypes = { essentialmode = true } }**  
+**resource_type 'map' { gameTypes = { es_freeroam = true } }**  
 in your fivem-map-skater or fivem-map-hipster resource.lua file.
 5. Add - es_freeroam to your AutoStartResources in citmp-server.yml
 6. Open **resources/[essential]/config.lua** and change your database settings.
