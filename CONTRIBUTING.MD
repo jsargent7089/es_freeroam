@@ -1,6 +1,21 @@
 # Contributing Guide
 
-We welcome contributions to the project. Please read the following guide on how to send in pull requests.
+We welcome contributions to the project. Please read the following guide on how you can contribute.
+
+## Bug reports 
+
+A bug is a *demonstrable* problem that caused by the code in the repository. 
+Good bug reports are extremely helpful, so thankes!
+
+Guidelines for bug reports: 
+
+2. **Use the Github issue search function** - check if the issue has already reported. 
+3. **Check if the issue has been fixed** - try to reproduce it using the latest `master` or `development`branch in the repo. 
+4. **Isolate the problem** - So the developers doesn't have hard times finding the possible bug. 
+ 
+A good bug report shouldn't have leave others needing to chase up for more information. 
+Please try to be detailed as possible in your report.  What steps ill reproduce the issue? etc.. 
+All these details will help people to fix potential bugs. 
 
 ## Pull Requests
 
@@ -8,7 +23,7 @@ We welcome contributions to the project. Please read the following guide on how 
 - Pull requests will be merged after being reviewed.
 - Please be respectful to other contributors and hold to [The Code Manifesto](http://codemanifesto.com/)
 
-# Disclaimer
+## Disclaimer
 - Everything submitted to the repository must be in source. That meaning any soft of obfuscated files, binary files, passworded files, and/or encrypted files will immediately removed (unless the file is a representation of the latest compiled **compatible AND working version** of which this file must only be binary source and include a virustotal scan).
 - All resources whether they be in source or binary (Lua or C#), they may be taken to be used, altered, renamed, adapted, revisioned, cloned, and/or replicated.
 - All contributions you make on any of FiveM-Scripts repositories remain your intellectual property, but you hereby do not have any legal rights to take down, or pursue legally/illegaly any individual, group, company, corporation whether it is a public or private entity. You understand that and agree to open sourcing your contribution to contribute to the FiveM community to learn.
