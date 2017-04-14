@@ -8,6 +8,9 @@ The information about the changes can be found below.
 - Added config.lua to make it easy for ppl to setup.
 - Added disclaimer to contributing & readme file.
 
+#### Fixes
+- Players now use the spawn locations from the map resource (temp fix)
+
 ## v0.1.2
 #### Features
 - Added "Fame or Shame" (Maze Bank Arena) IPL and blip

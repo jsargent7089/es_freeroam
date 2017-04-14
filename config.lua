@@ -6,7 +6,7 @@ database = {
           password = "changeme"
         }
 
--- Configure the coordinates where the player gets spawned when he joins the server.
+-- Configure the coordinates where the player gets spawned when he joins the server (temporarily disabled untill the next release).
 spawnCoords = {x=464.091, y=-997.166, z=24.915}
 
 -- Random skins
