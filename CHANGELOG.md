@@ -6,6 +6,7 @@ The information about the changes can be found below.
 - Added IPLs and blips
 - Added the vehicle shop directly in es_freeroam
 - Added config.lua to make it easy for ppl to setup.
+- Added disclaimer to contributing & readme file.
 
 ## v0.1.2
 #### Features
