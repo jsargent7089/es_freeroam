@@ -9,7 +9,7 @@ This project brings developers together to work on a script that can be used for
 Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project, instead [contribute](CONTRIBUTING.MD).**
 
 ## Changelog
-You can find our changelog [here](CHANGELOG.MD)
+You can find our changelog [here](CHANGELOG.md)
 
 ## Requirements
 - [Essentialmode](https://github.com/FiveM-Scripts/essentialmode)
