@@ -2,17 +2,6 @@
 AddEventHandler('onClientMapStart', function()
     exports.spawnmanager:setAutoSpawn(true)
     exports.spawnmanager:forceRespawn()
-    exports.spawnmanager:setAutoSpawnCallback(function()
-        if spawnLock then
-            return
-        end
-
-        spawnLock = false
-
-        TriggerServerEvent('playerSpawn')
-        TriggerEvent('playerSpawn')
-    
-    end)
 end)
 
 -- Allows the server to spawn the player
