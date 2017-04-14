@@ -15,7 +15,7 @@ You can find our changelog [here](CHANGELOG.md)
 - [Essentialmode](https://github.com/FiveM-Scripts/essentialmode)
 
 ## Installation
-1. [Download](https://github.com/FiveM-Scripts/Essential_Freeroam/archive/master.zip)
+1. [Download](https://github.com/FiveM-Scripts/es_freeroam/archive/master.zip)
 2. Extract the folder and rename it to es_freeroam
 3. Place the folder in your resources/[essential] folder
 4. Change **resource_type 'map' { gameTypes = { fivem = true } }**   
