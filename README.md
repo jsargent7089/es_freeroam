@@ -23,14 +23,14 @@ to
 **resource_type 'map' { gameTypes = { es_freeroam = true } }**  
 in your fivem-map-skater or fivem-map-hipster resource.lua file.
 5. Add - es_freeroam to your AutoStartResources in citmp-server.yml
-6. Open **resources/[essential]/config.lua** and change your database settings.
+6. Open **resources/[essential]/es_freeroam/config.lua** and change your database settings.
 7. Add a new column to your users table personalvehicle VARCHAR(60)
 8. Restart your server
 
 ## Upgrade
 Since the last upgrade we integrated the vehicle shop directly in es_freeroam.   
 For that reason you need to remove es_vehshop from your citmp-server.yml.   
-After that Open **resources/[essential]/config.lua** and change your database settings.   
+After that Open **resources/[essential]/es_freeroam/config.lua** and change your database settings.   
 
 ## Contribute
 if you are a developer and  would like to contribute any help is welcome!   
