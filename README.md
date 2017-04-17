@@ -12,7 +12,7 @@ Have some respect for the people that contribute to this project and don't just 
 You can find our changelog [here](CHANGELOG.md)
 
 ## Requirements
-- [Essentialmode](https://github.com/FiveM-Scripts/essentialmode)
+- [Essentialmode](https://github.com/kanersps/fivem-essentialmode)
 
 ## Installation
 1. [Download](https://github.com/FiveM-Scripts/es_freeroam/archive/master.zip)
