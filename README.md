@@ -17,20 +17,20 @@ You can find our changelog [here](CHANGELOG.md)
 ## Installation
 1. [Download](https://github.com/FiveM-Scripts/es_freeroam/archive/master.zip)
 2. Extract the folder and rename it to es_freeroam
-3. Place the folder in your resources/[essential] folder
+3. Copy it to your resources folder
 4. Change **resource_type 'map' { gameTypes = { fivem = true } }**   
 to    
 **resource_type 'map' { gameTypes = { es_freeroam = true } }**  
 in your fivem-map-skater or fivem-map-hipster resource.lua file.
 5. Add - es_freeroam to your AutoStartResources in citmp-server.yml
-6. Open **resources/[essential]/es_freeroam/config.lua** and change your database settings.
+6. Open **resources/es_freeroam/config.lua** and change your database settings.
 7. Add a new column to your users table personalvehicle VARCHAR(60)
 8. Restart your server
 
 ## Upgrade
 Since the last upgrade we integrated the vehicle shop directly in es_freeroam.   
 For that reason you need to remove es_vehshop from your citmp-server.yml.   
-After that Open **resources/[essential]/es_freeroam/config.lua** and change your database settings.   
+After that Open **resources/es_freeroam/config.lua** and change your database settings.   
 
 ## Contribute
 if you are a developer and  would like to contribute any help is welcome!   
